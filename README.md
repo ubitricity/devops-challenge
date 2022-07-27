@@ -1,7 +1,7 @@
 # devops-challenge
 Devops challenge
 
-### Given
+### Prerequisite
 Candidate needs to create a GCP account. If needed the candidate should add our evaluator's login to it with viewer access.
 
 ### Requirement
